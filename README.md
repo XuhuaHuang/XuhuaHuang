@@ -41,12 +41,17 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/)
 
 ### GitHub Status
+<!-- Overall -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
+<!-- Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Wakatime Profile -->
 [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- More on GitHub status -->
 ![Xuhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&show_icons=true&theme=vue)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
