@@ -26,13 +26,15 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 ### Skills
 * 💻 C / C++ / Rust
 * 🐱‍💻 Python / Cython / Java
+* 🗃️ SQL / MySQL
 #### Badges and Endorsements
 * ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/C++/report/)
 * ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/Python/report/)
 
 ### More About Me
 - 🔭 I’m currently working on enhancing Python skills. 
-- 🌱 I’m currently learning Rust. 
+- 🌱 I’m currently learning Rust.
+- 📤 Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with advance Python and Machine Learning. 
 - ⚡ Fun fact: code boolded animal. 
 
