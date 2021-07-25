@@ -45,6 +45,8 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Xuhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&show_icons=true&theme=vue)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
