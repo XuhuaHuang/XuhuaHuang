@@ -1,21 +1,9 @@
 <!--
-**XuhuaHuang/XuhuaHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 Last updated on: July 25, 2021, &:00 a.m.
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Hi there 👋, this is Xuhua
 #### Software Developer in Test at BrainBox AI
@@ -51,4 +39,4 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/419c1381-3ae4-41e4-83ac-6a041b15395c.svg"></embed></figure>
 
 <!-- Streak status -->
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
