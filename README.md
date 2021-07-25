@@ -35,8 +35,10 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
 <!-- Wakatime profile -->
+<!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/a7190bf2-41ac-42d5-9a77-3113ccc94fdb.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/419c1381-3ae4-41e4-83ac-6a041b15395c.svg"></embed></figure>
+<!--END_SECTION:waka-->
 
 <!-- Streak status -->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
