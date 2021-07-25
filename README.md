@@ -24,21 +24,20 @@ Last updated on: July 25, 2021, &:00 a.m.
 I consider myself to be a self learner, and this page contains most of my ~~self-taught~~ code.
 
 ### Skills
-* 💻 C / C++
-* 🐱‍💻 ![PythonGIF](https://user-images.githubusercontent.com/71360506/126898091-1299d75d-e24b-450a-a439-68e08fe4a944.gif) / Cython
-* ⚛️ Rust / Java
+* 💻 C / C++ / Rust
+* 🐱‍💻 Python / Cython / Java
 
 ### More About Me
 - 🔭 I’m currently working on enhancing Python skills. 
 - 🌱 I’m currently learning Rust. 
 - 🤔 I’m looking for help with advance Python and Machine Learning. 
-- ⚡ Fun fact: I turn sugar into code. 
+- ⚡ Fun fact: code boolded animal. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
-#### GitHub Status
+### GitHub Status
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
