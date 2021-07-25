@@ -19,7 +19,7 @@ Last updated on: July 25, 2021, &:00 a.m.
 
 ### Hi there 👋, this is Xuhua
 #### Software Developer in Test at BrainBox AI
-[<img src='https://www.brainboxai.com/static/assets/images/logo.svg' alt='BrainBox AI | Autonomous HVAC Technology' height='13'>](https://www.brainboxai.com/) fights climate change | Autonomous AI HVAC Technology
+[<img src='https://www.brainboxai.com/static/assets/images/logo.svg' alt='BrainBox AI | Autonomous HVAC Technology' height='13'>](https://www.brainboxai.com/)  fights climate change | Autonomous AI HVAC Technology
 
 I consider myself to be a self learner, and this page contains most of my ~~self-taught~~ code.
 
