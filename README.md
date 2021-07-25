@@ -26,9 +26,9 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 ### Skills
 * 💻 C / C++ / Rust
 * 🐱‍💻 Python / Cython / Java
-#### Badges
-* ([C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/C++/report/))
-* ([Python LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/Python/report/))
+#### Badges and Endorsements
+* ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/C++/report/)
+* ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/Python/report/)
 
 ### More About Me
 - 🔭 I’m currently working on enhancing Python skills. 
