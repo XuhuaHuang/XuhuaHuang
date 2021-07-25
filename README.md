@@ -38,6 +38,6 @@ Skills: C / C++ / Python / Cython / Rust / Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Xuhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&show_icons=true&theme=cobalt)
+![Xuhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&show_icons=true&theme=vue)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
