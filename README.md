@@ -40,6 +40,7 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 
 ### GitHub Status
 <!-- Overall -->
+#### Overview
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
