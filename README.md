@@ -1,20 +1,3 @@
-<!--
-**XuhuaHuang/XuhuaHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-Last updated on: July 25, 2021, &:00 a.m.
--->
-
 ### Hi there 👋, this is Xuhua
 #### Software Developer in Test at BrainBox AI
 [<img src='https://www.brainboxai.com/static/assets/images/logo.svg' alt='BrainBox AI | Autonomous HVAC Technology' height='13'>](https://www.brainboxai.com/) fights climate change | Autonomous AI HVAC Technology
@@ -55,8 +38,6 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 Rust   28 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-[![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Streak status -->
-#### Streak Status
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang&theme=vue-dark)
+
+
