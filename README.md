@@ -44,6 +44,7 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
 <!-- Wakatime profile -->
+#### Recent Activities
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -53,5 +54,10 @@ No Activity tracked this Week
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/a7190bf2-41ac-42d5-9a77-3113ccc94fdb.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/419c1381-3ae4-41e4-83ac-6a041b15395c.svg"></embed></figure>
 
+#### Top Languages
+<!-- Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Streak status -->
+#### Streak Status
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang)
