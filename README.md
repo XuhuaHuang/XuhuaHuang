@@ -38,6 +38,3 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 Rust   28 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
-
-
