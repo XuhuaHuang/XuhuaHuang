@@ -57,9 +57,6 @@ Rust   28 mins         ███████████████████
 <!--END_SECTION:waka-->
 [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@XuhuaHuang/a7190bf2-41ac-42d5-9a77-3113ccc94fdb.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@XuhuaHuang/419c1381-3ae4-41e4-83ac-6a041b15395c.svg"></embed></figure>
-
 <!-- Streak status -->
 #### Streak Status
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang&theme=vue-dark)
