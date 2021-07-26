@@ -35,6 +35,6 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 #### Recent Activities
 <!--START_SECTION:waka-->
 ```text
-Rust   28 mins         █████████████████████████   100.00 % 
+Rust   28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
