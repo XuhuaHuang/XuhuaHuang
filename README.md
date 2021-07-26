@@ -44,9 +44,6 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
-<!-- More on GitHub status -->
-![Xuhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&show_icons=true&theme=vue-dark)
-
 <!-- Languages -->
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,7 +55,7 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 Rust   28 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-[![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=default&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/a7190bf2-41ac-42d5-9a77-3113ccc94fdb.svg"></embed></figure>
 <figure><embed src="https://wakatime.com/share/@XuhuaHuang/419c1381-3ae4-41e4-83ac-6a041b15395c.svg"></embed></figure>
