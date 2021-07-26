@@ -55,7 +55,7 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 #### Recent Activities
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Rust   28 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=default&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
