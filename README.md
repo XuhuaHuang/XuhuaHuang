@@ -39,7 +39,3 @@ Python   59 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀�
 Rust     28 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.68 % 
 ```
 <!--END_SECTION:waka-->
-
-<div class="embed" markdown="1">
-  <figure><embed src="https://wakatime.com/share/@XuhuaHuang/0e78dc1e-df5b-43b9-b5bd-d2ff07d52cdd.svg"></embed></figure>
-</div>
