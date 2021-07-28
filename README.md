@@ -33,12 +33,4 @@ I consider myself to be a self learner, and this page contains most of my ~~self
 
 <!-- Wakatime profile -->
 #### Recent Activities
-<!--START_SECTION:waka-->
-```text
-Python   1 hr 47 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.51 % 
-Rust     28 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.92 % 
-```
-<!--END_SECTION:waka-->
-
-<!-- Wakatime Profile -->
-<!-- [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
