@@ -21,7 +21,7 @@ I consider myself to be a highly-motivated self-learner, and this page contains 
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`
   - 🤔 I’m looking for help with advance Python and Machine Learning.
-  - 📫 How to reach me: xhua.huang@outlook.com
+  - 📫 How to reach me: huang.xuhua@outlook.com
   - ⚡ Fun fact: code boolded animal.
 </details>
 
@@ -46,11 +46,4 @@ I consider myself to be a highly-motivated self-learner, and this page contains 
 </details>
 
 <!--START_SECTION:waka-->
-```text
-Python     5 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀   64.41 % 
-Cython     1 hr 57 mins    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.61 % 
-C++        41 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.39 % 
-Markdown   11 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.35 % 
-Other      4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.82 % 
-```
 <!--END_SECTION:waka-->
