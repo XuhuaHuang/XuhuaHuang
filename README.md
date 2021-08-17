@@ -1,8 +1,6 @@
 ### Hi there 👋, this is Xuhua
-#### Software Developer in Test at BrainBox AI
-[<img src='https://www.brainboxai.com/static/assets/images/logo.svg' alt='BrainBox AI | Autonomous HVAC Technology' height='13'>](https://www.brainboxai.com/) fights climate change | Autonomous AI HVAC Technology
 
-I consider myself to be a self learner, and this page contains most of my ~~self-taught~~ code.
+I consider myself to be a highly-motivated self-learner, and this page contains most of my ~~self-taught~~ code.
 
 ### Skills
 * 💻 C / C++ / Rust
@@ -46,3 +44,6 @@ I consider myself to be a self learner, and this page contains most of my ~~self
   [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
