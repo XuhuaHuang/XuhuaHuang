@@ -11,7 +11,7 @@ I consider myself to be a highly-motivated self-learner, and this page contains 
 * ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/C++/report/)
 * ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/Python/report/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
 
 <details>
   <summary>Expand to know more about me</summary>
