@@ -11,8 +11,9 @@ Various repositories contain code written in C++, Python, Cython, Rust, Java. Pr
 * 🗃️ SQL / MySQL
 
 #### Badges and Endorsements
-* ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/C++/report/)
-* ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/xuhua-huang-at-brainboxai/detail/assessments/Python/report/)
+* ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/coder-xuhua-huang/)
+* ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/coder-xuhua-huang/)
+* ✒️ [Object-Oriented Programming](https://www.linkedin.com/in/coder-xuhua-huang/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
