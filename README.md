@@ -1,19 +1,33 @@
 ### Hi there 👋, this is Xuhua
 
 I consider myself to be a highly-motivated self-learner, and this page contains most of my ~~self-taught~~ code.  
-Various repositories contain code written in C++, Python, Cython, Rust, Java. Primary languages remain to be C++ and Python.
+Various repositories contain code written in C++, Python, Cython, Rust, Java. 
+My Primary languages remain to be C++ and Python.
 
-`std::list<string> knownLangsList {"C++", "Python", "Cython", "Rust", "Java"};`
+```C++
+std::list<string> knownLangsList {"C++", "Python", "Cython", "Rust", "Java"};
+```
 
 ### Skills
 * 💻 C / C++ / Rust
 * 🐱‍💻 Python / Cython / Java
+* ⌨️ Object-Oriented Programming
 * 🗃️ SQL / MySQL
 
 #### Badges and Endorsements
-* ✒️ [C++ LinkedIn Skill Assessment](https://www.linkedin.com/in/coder-xuhua-huang/)
-* ✒️ [Python LinkedIn Skill Assessment](https://www.linkedin.com/in/coder-xuhua-huang/)
-* ✒️ [Object-Oriented Programming](https://www.linkedin.com/in/coder-xuhua-huang/)
+<!-- In a table form
+|              Name             |                       Type                         |
+|------------------------------ | -------------------------------------------------- |
+| ✒️C++ Programming             | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
+| ✒️Python Programming          | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
+| ✒️Object-Oriented Programming | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
+-->
+
+* ✒️ [C++ Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
+* ✒️ [Python Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
+* ✒️ [Object-Oriented Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
+
+[LinkedIn Profile Link]: https://www.linkedin.com/in/coder-xuhua-huang/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
