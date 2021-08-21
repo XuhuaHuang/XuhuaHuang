@@ -1,12 +1,14 @@
 ### Hi there 👋, this is Xuhua
+I consider myself to be a highly-motivated self-learner; various repositories contain all ~~self-taught~~ code written along the way.  
 
-I consider myself to be a highly-motivated self-learner, and this page contains most of my ~~self-taught~~ code.  
-Various repositories contain code written in C++, Python, Cython, Rust, Java. 
-My Primary languages remain to be C++ and Python.
-
-```C++
-std::list<string> knownLangsList {"C++", "Python", "Cython", "Rust", "Java"};
+### Recent Coding Activities
+<!--START_SECTION:waka-->
+```text
+Python   9 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.83 % 
+C++      1 hr 20 mins    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.97 % 
+Cython   1 hr 13 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.12 % 
 ```
+<!--END_SECTION:waka-->
 
 ### Skills
 * 💻 C / C++ / Rust
@@ -14,28 +16,21 @@ std::list<string> knownLangsList {"C++", "Python", "Cython", "Rust", "Java"};
 * ⌨️ Object-Oriented Programming
 * 🗃️ SQL / MySQL
 
-#### Badges and Endorsements
-<!-- In a table form
-|              Name             |                       Type                         |
-|------------------------------ | -------------------------------------------------- |
-| ✒️C++ Programming             | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
-| ✒️Python Programming          | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
-| ✒️Object-Oriented Programming | [LinkedIn Skill Assessment][LinkedIn Profile Link] |
--->
-
-* ✒️ [C++ Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
-* ✒️ [Python Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
-* ✒️ [Object-Oriented Programming - LinkedIn Skill Assessment][LinkedIn Profile Link]
+#### LinkedIn Skill Assessment Badges
+* ✒️ [C++ Programming][LinkedIn Profile Link]
+* ✒️ [Python Programming][LinkedIn Profile Link]
+* ✒️ [Object-Oriented Programming][LinkedIn Profile Link]
 
 [LinkedIn Profile Link]: https://www.linkedin.com/in/coder-xuhua-huang/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
 
+### More
 <details>
   <summary>Expand to know more about me</summary>
   
-  ### More About Me
+  #### More About Me
   - 🔭 I’m currently working on enhancing Python skills. 
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`
@@ -45,29 +40,34 @@ std::list<string> knownLangsList {"C++", "Python", "Cython", "Rust", "Java"};
 </details>
 
 <details>
-  <summary>Expand to see GitHub status</summary>
+  <summary>Expand to see my GitHub page status</summary>
   
-  ### GitHub Status
+  #### GitHub Status
   
   <!-- Overall -->
-  #### Overview
+  ##### Overview
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
   
   <!-- Languages -->
-  #### Top Languages
+  ##### Top Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- Wakatime profile -->
-  #### Recent Activities
+  ##### Summary of Coding Activities
   [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
 </details>
 
-<!--START_SECTION:waka-->
-```text
-Python   9 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.83 % 
-C++      1 hr 20 mins    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.97 % 
-Cython   1 hr 13 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.12 % 
-```
-<!--END_SECTION:waka-->
+<details>
+  <summary>C++ is the best programming language</summary>
+  
+  ### C++ Code Snippet
+  ```C++
+  #include<iostream>
+  #include<list>
+  #include<string>
+  
+  extern const std::list<string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
+  extern const std::list<string> mainLangsList { "C++", "Python" };
+  ```
+</details>
