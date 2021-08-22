@@ -36,7 +36,7 @@ Cython   1 hr 13 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   - 📤 Most used line of code `git commit -m "Initial Commit"`
   - 🤔 I’m looking for help with advance Python and Machine Learning.
   - 📫 How to reach me: huang.xuhua@outlook.com
-  - ⚡ Fun fact: code boolded animal.
+  - ⚡ Fun fact: code blooded animal.
 </details>
 
 <details>
