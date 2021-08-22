@@ -67,7 +67,29 @@ Cython   1 hr 13 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   #include<list>
   #include<string>
   
-  extern const std::list<string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
-  extern const std::list<string> mainLangsList { "C++", "Python" };
+  extern std::list<string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
+  extern std::list<string> mainLangsList { "C++", "Python" };
+  
+  namespace util {
+    template<class T>
+    void printList(std::list<T> argList) {
+        std::cout << "\n[fn]Printing list..." << std::endl;
+
+        typename std::list<T>::iterator iter;
+        for (iter = argList.begin(); iter != argList.end(); ++iter)
+            std::cout << *iter << " "; // dereference the iterator to print content
+
+        std::cout << "\n[fn]Finished printing the list." << std::endl;
+        return;
+    }
+  }
+  
+  int main(int argc, char** argv) {
+    /* Test template function util::printList(std::list<T>) */
+    util::printList(knownLangsList);
+    util::printList(mainLangsList);
+
+    return 0;
+  }
   ```
 </details>
