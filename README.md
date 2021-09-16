@@ -29,7 +29,7 @@ Rust    2 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### More
 <details>
-  <summary>Expand to know more about me</summary>
+  <summary>More about me</summary>
   
   #### More About Me
   - 🔭 I’m currently working on enhancing Python skills. 
@@ -41,7 +41,7 @@ Rust    2 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>Expand to see my GitHub page status</summary>
+  <summary>GitHub profile status</summary>
   
   #### GitHub Status
   
