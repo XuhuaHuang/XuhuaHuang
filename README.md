@@ -28,11 +28,13 @@ C++           21 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
 
-### More
+<!--### More-->
+
+---
+
 <details>
   <summary>More about me</summary>
   
-  #### More About Me
   - 🔭 I’m currently working on enhancing Python skills. 
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`
@@ -42,9 +44,7 @@ C++           21 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>GitHub profile status</summary>
-  
-  #### GitHub Status
+  <summary>GitHub profile</summary>
   
   <!-- Overall -->
   ##### Overview
@@ -61,9 +61,7 @@ C++           21 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>C++ is the best programming language</summary>
-  
-  ### C++ Code Snippet
+  <summary>I ❤️ C++</summary>
   ```C++
   #include<iostream>
   #include<list>
