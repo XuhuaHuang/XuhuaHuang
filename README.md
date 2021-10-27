@@ -13,7 +13,7 @@ C++           1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### Skills
 * 💻 C / C++ / Rust
-* 🐱‍💻 Python / Cython / Java
+* 🖥️ Python / Cython / Java
 * ⌨️ Object-Oriented Programming
 * 🗃️ SQL / MySQL
 
@@ -38,7 +38,7 @@ C++           1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`
   - 🤔 I’m looking for help with advance Python and Machine Learning.
-  - 📫 How to reach me: huang.xuhua@outlook.com
+  - 📫 How to reach me: xuhuahuang0412@gmail.com
   - ⚡ Fun fact: code blooded animal.
 </details>
 
