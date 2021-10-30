@@ -13,8 +13,8 @@ JSON       4 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 ### Skills
-* 💻 C / C++ / Rust
-* 🖥️ Python / Cython / Java
+* 💻 C / C++ / Python
+* 🖥️ Rust / Cython / Java
 * ⌨️ Object-Oriented Programming
 * 🗃️ SQL / MySQL
 
