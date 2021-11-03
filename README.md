@@ -67,30 +67,39 @@ JSON       7 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   #include<iostream>
   #include<list>
   #include<string>
-  
-  extern std::list<string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
-  extern std::list<string> mainLangsList { "C++", "Python" };
-  
-  namespace util {
-    template<class T>
-    void printList(std::list<T> argList) {
-        std::cout << "\n[fn]Printing list..." << std::endl;
 
-        typename std::list<T>::iterator iter;
-        for (iter = argList.begin(); iter != argList.end(); ++iter)
-            std::cout << *iter << " "; // dereference the iterator to print content
+  #ifndef DEBUG
+  #define DEBUG(arg_str) std::cout << arg_str << std::endl;
+  #endif
 
-        std::cout << "\n[fn]Finished printing the list." << std::endl;
-        return;
-    }
-  }
-  
-  int main(int argc, char** argv) {
-    /* Test template function util::printList(std::list<T>) */
-    util::printList(knownLangsList);
-    util::printList(mainLangsList);
+  namespace util::list {
 
-    return 0;
+      /* Template to print a std::list with O(n). */
+      /* For sanity, using constant reference instead of iterators. */
+      template<typename T>
+      static void print_list(std::list<T> arg_list) {
+          DEBUG("\n[fn]util::list::print_list");
+
+          /* Loop through the vector with iterator. */
+          typename std::list<T>::iterator iter; // keyword "typename" is required for iterator
+          for (iter = arg_list.begin(); iter != arg_list.end(); ++iter)
+              std::cout << *iter << ", "; // dereference the iterator to print content
+
+          DEBUG("\n[fn]Finished printing the list.");
+          return;
+      }
+
+  } // end Util::list
+
+  std::list<std::string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
+  std::list<std::string> mainLangsList { "C++", "Python" };
+
+  int main(int argc, const char** argv) {
+      /* Test template function util::print_list(std::list<T>) */
+      util::list::print_list(knownLangsList);
+      util::list::print_list(mainLangsList);
+
+      return 0;
   }
   ```
 </details>
