@@ -74,6 +74,17 @@ Python     6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   #define DEBUG(arg_str) std::cout << arg_str << std::endl;
   #endif
 
+  inline constexpr auto trim_front = views::drop_while(::isspace);
+  inline constexpr auto trim_back = views::reverse
+    | views::drop_while(::isspace)
+    | views::reverse;
+
+  inline constexpr auto trim = trim_front | trim_back;
+
+  std::string trim_str(const std::string& str) {
+    return str | trim | rangesnext::to<std::string>;
+  }
+  
   namespace util::list {
 
       /* Template to print a std::list with O(n). */
