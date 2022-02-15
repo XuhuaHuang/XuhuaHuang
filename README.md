@@ -24,6 +24,7 @@ Python     16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * ✒️ [C++ Programming][LinkedIn Profile Link]
 * ✒️ [Python Programming][LinkedIn Profile Link]
 * ✒️ [Object-Oriented Programming][LinkedIn Profile Link]
+* ✒️ [Object-Oriented Data Structures in C++](https://coursera.org/share/94edd41bd7533bffc5d01463b00a32cb)
 
 #### Recently Obtained Badges
 [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="130" height="130">](https://www.credly.com/badges/a79dd6e0-e8fe-45e6-a7d3-25bc8eaf2f04/public_url)
