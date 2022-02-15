@@ -1,8 +1,9 @@
 ### Hi there 👋, this is Xuhua
 I consider myself to be a highly-motivated self-learner; various repositories contain all ~~self-taught~~ code written along the way.  
-✓ Self learner, quick learner  
-✓ C/C++ and Python enthusiast  
-✓ Craving for new knowledge and challenges  
+
+✔ Self learner, quick learner  
+✔ C/C++ and Python enthusiast  
+✔ Craving for new knowledge and challenges  
 
 ### Recent Coding Activities
 <!--START_SECTION:waka-->
