@@ -25,14 +25,18 @@ Python     16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 * ✒️ [Python Programming][LinkedIn Profile Link]
 * ✒️ [Object-Oriented Programming][LinkedIn Profile Link]
 
-[LinkedIn Profile Link]: https://www.linkedin.com/in/coder-xuhua-huang/
+#### Recently Obtained Badges
+[<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="130" height="130">](https://www.credly.com/badges/a79dd6e0-e8fe-45e6-a7d3-25bc8eaf2f04/public_url)
+[<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="130" height="130">](https://www.credly.com/badges/57932d92-7a5a-4dee-95f9-a50237374199/public_url)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coder-xuhua-huang/)
+[LinkedIn Profile Link]: https://www.linkedin.com/in/coder-xuhua-huang/
 
 <!--### More-->
 
 ---
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/XuhuaHuang)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][LinkedIn Profile Link]  
 
 <details>
   <summary>More about me</summary>
