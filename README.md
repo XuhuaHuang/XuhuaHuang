@@ -32,7 +32,7 @@ C          0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="130" height="130">](https://www.credly.com/badges/a79dd6e0-e8fe-45e6-a7d3-25bc8eaf2f04/public_url)
 [<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="130" height="130">](https://www.credly.com/badges/57932d92-7a5a-4dee-95f9-a50237374199/public_url)
 
-[LinkedIn Profile Link]: https://www.linkedin.com/in/coder-xuhua-huang/
+[LinkedIn Profile Link]: https://www.linkedin.com/in/xuhua-huang-io/
 
 <!--### More-->
 
@@ -48,7 +48,7 @@ C          0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`
   - 🤔 I’m looking for help with advance Python and Machine Learning.
-  - 📫 How to reach me: xuhuahuang0412@gmail.com
+  - 📫 How to reach me: xuhua.huang.io@gmail.com
   - ⚡ Fun fact: code blooded animal.
 </details>
 
@@ -56,7 +56,7 @@ C          0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <summary>GitHub profile</summary>
   
   <!-- Overall -->
-  ##### Overview
+  ##### Overview  
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
   
