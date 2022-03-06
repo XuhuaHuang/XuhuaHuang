@@ -61,7 +61,7 @@ C          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>GitHub profile</summary>
+  <summary>GitHub profile status</summary>
   
   <!-- Overall -->
   #### Overview  
@@ -78,7 +78,7 @@ C          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>I ❤️ C++</summary>
+  <summary>I ❤️ Modern C++</summary>
   
   ```C++
   #include<iostream>
