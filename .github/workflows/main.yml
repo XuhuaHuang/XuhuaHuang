@@ -7,7 +7,7 @@ on:
     - main
     - master
   schedule:
-    # Runs every hour
+    # Runs every day
     - cron: "0 0 * * *"
 
 jobs:
