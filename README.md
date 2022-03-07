@@ -65,7 +65,7 @@ C          0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <!-- Overall -->
   #### Overview  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
   
   <!-- Languages -->
