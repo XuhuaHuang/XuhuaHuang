@@ -23,7 +23,7 @@ C     1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- Fold Information Section -->
 <details>
-  <summary>Skills and badges</summary>
+  <summary><b>Skills and badges</b></summary>
   
   #### Skills
   * 💻 C / C++ / Python
@@ -49,7 +49,7 @@ C     1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [Python for Data Science]: https://www.credly.com/badges/57932d92-7a5a-4dee-95f9-a50237374199/public_url
 
 <details>
-  <summary>More about me</summary>
+  <summary><b>More about me</b></summary>
   
   - 🔭 I’m currently working on enhancing Python skills. 
   - 🌱 I’m currently learning Rust.
@@ -60,7 +60,7 @@ C     1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>GitHub profile status</summary>
+  <summary><b>GitHub profile status</b></summary>
   
   <!-- Overall -->
   #### Overview  
@@ -77,7 +77,7 @@ C     1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <details>
-  <summary>I ❤️ Modern C++</summary>
+  <summary><b>I ❤️ Modern C++</b></summary>
   
   ```C++
   #include<iostream>
