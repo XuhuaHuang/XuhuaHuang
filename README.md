@@ -2,7 +2,7 @@
 I consider myself to be a highly-motivated self-learner; various repositories contain all ~~self-taught~~ code written along the way.  
 
 <!-- Logo -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://gist.github.com/XuhuaHuang)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://gist.github.com/XuhuaHuang/starred)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][LinkedIn Profile Link] 
 
 ✔ Self learner and quick learner craving for in-depth knowledge and challenges.  
