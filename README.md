@@ -55,12 +55,12 @@ PowerShell    17 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <details>
   <summary><b>More about me</b></summary>
   
-  - 🔭 I’m currently working on enhancing Python skills. 
+  - 🔭 I’m currently working on leanring OpenCV4 with Python3 and Qt5. 
   - 🌱 I’m currently learning Rust.
-  - 📤 Most used line of code `git commit -m "Initial Commit"`
-  - 🤔 I’m looking for help with advance Python and Machine Learning.
+  - 📤 Most used line of code `git commit -m "Initial Commit"`.
+  - 🤔 I’m looking for help with advanced Python and Machine Learning.
   - 📫 How to reach me: xuhua.huang.io@gmail.com
-  - ⚡ Fun fact: code blooded animal.
+  - ⚡ Fun fact: code blooded animal `std::code_blooded`.
 </details>
 
 <details>
@@ -84,53 +84,37 @@ PowerShell    17 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <summary><b>I ❤️ Modern C++</b></summary>
   
   ```C++
-  #include<iostream>
-  #include<list>
-  #include<string>
+  /*****************************************************************//**
+  * \file   trimstr.hpp
+  * \brief  Demonstration of handy constant expressions that trim
+  *         `std::string` at compile time with `std::ranges`
+  *
+  * $ g++ trimstr.hpp -o trimstr.o -std=c++23 -Wall -Wextra -Wpedantic
+  *
+  * \author Xuhua Huang
+  * \date   March 2022
+  *********************************************************************/
 
-  #ifndef DEBUG
-  #define DEBUG(arg_str) std::cout << arg_str << std::endl;
+  #if defined __has_include
+  #if __has_include(<ranges>) && __has_include(<string>)
+  #include <ranges>
+  #include <string>
+  #else
+  #error "Require std::ranges and std::string library!"
+  #endif
   #endif
 
-  inline constexpr auto trim_front = views::drop_while(::isspace);
-  inline constexpr auto trim_back = views::reverse
-    | views::drop_while(::isspace)
-    | views::reverse;
+  inline constexpr auto trim_front = std::views::drop_while(::isspace);
+  inline constexpr auto trim_back = std::views::reverse
+      | std::views::drop_while(::isspace)
+      | std::views::reverse;
 
-  inline constexpr auto trim = trim_front | trim_back;
+  inline constexpr auto trim_spaces = trim_front | trim_back;
 
   std::string trim_str(const std::string& str) {
-    return str | trim | rangesnext::to<std::string>;
-  }
-  
-  namespace util::list {
-
-      /* Template to print a std::list with O(n). */
-      /* For sanity, using constant reference instead of iterators. */
-      template<typename T>
-      static void print_list(std::list<T> arg_list) {
-          DEBUG("\n[fn]util::list::print_list");
-
-          /* Loop through the vector with iterator. */
-          typename std::list<T>::iterator iter; // keyword "typename" is required for iterator
-          for (iter = arg_list.begin(); iter != arg_list.end(); ++iter)
-              std::cout << *iter << ", "; // dereference the iterator to print content
-
-          DEBUG("\n[fn]Finished printing the list.");
-          return;
-      }
-
-  } // end namespace util::list
-
-  std::list<std::string> knownLangsList { "C++", "Python", "Cython", "Rust", "Java" };
-  std::list<std::string> mainLangsList { "C++", "Python" };
-
-  int main(int argc, const char** argv) {
-      /* Test template function util::print_list(std::list<T>) */
-      util::list::print_list(knownLangsList);
-      util::list::print_list(mainLangsList);
-
-      return 0;
+      // std::rangesnext::to in C++23 proporsal
+      // htat converts ranges to a containter
+      return str | trim_spaces | std::rangesnext::to<std::string>;
   }
   ```
 </details>
