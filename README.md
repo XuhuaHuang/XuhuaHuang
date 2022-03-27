@@ -42,8 +42,10 @@ Other         2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
 
   #### Recently Obtained Badges
-  [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python" width="130" height="130">][Data Analysis using Python]
-  [<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science" width="130" height="130">][Python for Data Science]
+  [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
+        alt="Data Analysis Using Python" width="130" height="130">][Data Analysis using Python]
+  [<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"
+        alt="Python for Data Science" width="130" height="130">][Python for Data Science]
 </details>
 
 <!-- Link Definitions -->
@@ -54,7 +56,7 @@ Other         2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <details>
   <summary><b>More about me</b></summary>
-  
+
   - 🔭 I’m currently working on leanring OpenCV4 with Python3 and Qt5. 
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`.
@@ -70,18 +72,22 @@ Other         2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   #### Overview  
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
-  
+
   <!-- Languages -->
   #### Top Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Link Definitions -->
+  [Top Langs Link API]: https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact&theme=solarized-dark&title_color=90d0e4&text_color=89d7a9
+  [![Top Langs][Top Langs Link API]](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- Wakatime profile -->
   #### Summary of Coding Activities
-  [![Xuhua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Link Definitions -->
+  [Wakatime Stats Link API]: https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=solarized-dark&title_color=90d0e4&text_color=89d7a9
+  [![Xuhua's wakatime stats][Wakatime Stats Link API]](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
-  <summary><b>I ❤️ Modern C++</b></summary>
+  <summary><b>I ❤️ Modern C++ 🐱‍💻</b></summary>
   
   ```C++
   /*****************************************************************//**
