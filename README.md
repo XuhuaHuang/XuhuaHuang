@@ -13,7 +13,7 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
 C++          31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.40 %
 Python       17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.72 %
