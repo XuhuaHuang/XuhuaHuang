@@ -7,7 +7,7 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 
 ✔ Self learner and quick learner craving for in-depth knowledge and challenges.  
 ✔ Strong passion in Embedded Software Development with C/C++, Python and Rust.  
-✔ **Embedded Software Development** || Design || Analysis with advanced mathematics.  
+✔ **Embedded Software Development** || Design || **Data Analysis** w/ mathematics.  
 
 ### Recent Coding Activities
 <!--START_SECTION:waka-->
@@ -40,6 +40,8 @@ Rust     7 mins          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
 
   #### Recently Obtained Badges
+  [<img src="https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+        alt="Applied Data Science with Python - Level 2" width="130" height="130">][Applied Data Science with Python - Level 2]
   [<img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"
         alt="Data Visualization using Python" width="130" height="130">][Data Visualization using Python]
   [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
@@ -51,6 +53,7 @@ Rust     7 mins          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- Link Definitions -->
 [LinkedIn Profile Link]: https://www.linkedin.com/in/xuhua-huang-io/
 [OO Data Structures C++]: https://coursera.org/share/94edd41bd7533bffc5d01463b00a32cb
+[Applied Data Science with Python - Level 2]: https://www.credly.com/badges/40332475-a724-4b55-a6d0-b44b3e0e882b/public_url
 [Data Visualization using Python]: https://www.credly.com/badges/32ad0258-5283-4319-9023-bf87f36badc1/public_url
 [Data Analysis using Python]: https://www.credly.com/badges/a79dd6e0-e8fe-45e6-a7d3-25bc8eaf2f04/public_url
 [Python for Data Science]: https://www.credly.com/badges/57932d92-7a5a-4dee-95f9-a50237374199/public_url
