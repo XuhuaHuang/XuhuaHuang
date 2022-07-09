@@ -39,6 +39,8 @@ Python   48 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
 
   #### Recently Obtained Badges
+  [<img src="https://images.credly.com/size/340x340/images/087e…-74efca195667/Data_Visualization_Using_Python.png"
+        alt="Data Visualization using Python" width="130" height="130">][Data Visualization using Python]
   [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
         alt="Data Analysis Using Python" width="130" height="130">][Data Analysis using Python]
   [<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"
@@ -48,6 +50,7 @@ Python   48 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!-- Link Definitions -->
 [LinkedIn Profile Link]: https://www.linkedin.com/in/xuhua-huang-io/
 [OO Data Structures C++]: https://coursera.org/share/94edd41bd7533bffc5d01463b00a32cb
+[Data Visualization using Python]: https://www.credly.com/badges/32ad0258-5283-4319-9023-bf87f36badc1/public_url
 [Data Analysis using Python]: https://www.credly.com/badges/a79dd6e0-e8fe-45e6-a7d3-25bc8eaf2f04/public_url
 [Python for Data Science]: https://www.credly.com/badges/57932d92-7a5a-4dee-95f9-a50237374199/public_url
 
