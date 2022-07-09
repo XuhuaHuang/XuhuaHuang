@@ -40,7 +40,7 @@ Rust     7 mins          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
 
   #### Recently Obtained Badges
-  [<img src="https://images.credly.com/size/340x340/images/087e…-74efca195667/Data_Visualization_Using_Python.png"
+  [<img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"
         alt="Data Visualization using Python" width="130" height="130">][Data Visualization using Python]
   [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
         alt="Data Analysis Using Python" width="130" height="130">][Data Analysis using Python]
