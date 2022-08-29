@@ -13,15 +13,15 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 26 August 2022
+From: 28 July 2022 - To: 27 August 2022
 
-Total Time: 180 hrs 35 mins
+Total Time: 182 hrs 28 mins
 
-Python           132 hrs 4 mins  >>>>>>>>>>>>>>>>>>-------   73.13 %
-Rust             31 hrs 5 mins   >>>>---------------------   17.21 %
-Markdown         13 hrs 21 mins  >>-----------------------   07.39 %
-GitIgnore file   1 hr 13 mins    -------------------------   00.68 %
-C++              1 hr 11 mins    -------------------------   00.66 %
+Python           133 hrs 34 mins >>>>>>>>>>>>>>>>>>-------   73.20 %
+Rust             31 hrs 5 mins   >>>>---------------------   17.04 %
+Markdown         13 hrs 43 mins  >>-----------------------   07.52 %
+GitIgnore file   1 hr 13 mins    -------------------------   00.67 %
+C++              1 hr 11 mins    -------------------------   00.65 %
 Git Config       1 hr 1 min      -------------------------   00.57 %
 ```
 
