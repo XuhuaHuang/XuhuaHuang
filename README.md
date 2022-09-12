@@ -129,7 +129,7 @@ C                40 mins         -------------------------   00.29 %
 
   std::string trim_str(const std::string& str) {
       // std::rangesnext::to in C++23 proporsal
-      // htat converts ranges to a containter
+      // that converts ranges to a containter
       return str | trim_spaces | std::rangesnext::to<std::string>;
   }
   ```
