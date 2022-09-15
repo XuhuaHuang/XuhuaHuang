@@ -128,8 +128,8 @@ GitIgnore file     1 hr 5 mins     -------------------------   00.42 %
   inline constexpr auto trim_spaces = trim_front | trim_back;
 
   std::string trim_str(const std::string& str) {
-      // std::rangesnext::to in C++23 proporsal
-      // that converts ranges to a containter
+      // std::rangesnext::to in C++23 proposal
+      // that converts ranges to a container
       return str | trim_spaces | std::rangesnext::to<std::string>;
   }
   ```
