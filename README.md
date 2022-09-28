@@ -9,7 +9,6 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 ✔ Strong passion in Embedded Software Development w/ C/C++, Python & Rust. <br>
 ✔ **Embedded Software Development** || Design || **Data Analysis** w/ mathematics.  
 
-### Recent Coding Activities
 <!--START_SECTION:waka-->
 
 ```text
@@ -26,8 +25,6 @@ C                  42 mins         -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 <!-- Fold Information Section -->
 <details>
