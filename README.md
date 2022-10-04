@@ -6,7 +6,7 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][LinkedIn Profile Link] 
 
 ✔ Self learner and quick learner craving for in-depth knowledge and challenges. <br>
-✔ Strong passion in Embedded Software Development w/ C/C++, Python & Rust. <br>
+✔ Strong passion in Embedded Software Development w/ **C/C++, Python & Rust**. <br>
 ✔ **Embedded Software Development** || Design || **Data Analysis** w/ mathematics.  
 
 <!--START_SECTION:waka-->
