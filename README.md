@@ -13,14 +13,14 @@ I consider myself to be a highly-motivated self-learner; various repositories co
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 09 January 2023
+From: 11 December 2022 - To: 10 January 2023
 
-Total Time: 416 hrs 37 mins
+Total Time: 418 hrs 58 mins
 
-C++                364 hrs         >>>>>>>>>>>>>>>>>>>>>>---   87.37 %
-CMake              8 hrs 30 mins   >------------------------   02.04 %
-Rust               7 hrs 49 mins   -------------------------   01.88 %
-Markdown           6 hrs 38 mins   -------------------------   01.60 %
+C++                365 hrs 36 mins >>>>>>>>>>>>>>>>>>>>>>---   87.26 %
+CMake              8 hrs 26 mins   >------------------------   02.01 %
+Rust               8 hrs 24 mins   >------------------------   02.01 %
+Markdown           6 hrs 52 mins   -------------------------   01.64 %
 PowerShell         6 hrs 15 mins   -------------------------   01.50 %
 XML                6 hrs 15 mins   -------------------------   01.50 %
 ```
