@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 18 January 2023
+From: 20 December 2022 - To: 19 January 2023
 
-Total Time: 432 hrs 53 mins
+Total Time: 434 hrs 47 mins
 
-C++                373 hrs 40 mins >>>>>>>>>>>>>>>>>>>>>>---   86.32 %
-Markdown           11 hrs 35 mins  >------------------------   02.68 %
-Rust               8 hrs 24 mins   -------------------------   01.94 %
-CMake              8 hrs           -------------------------   01.85 %
-PowerShell         6 hrs 17 mins   -------------------------   01.45 %
-XML                6 hrs 6 mins    -------------------------   01.41 %
+C++                 373 hrs 54 mins >>>>>>>>>>>>>>>>>>>>>>---   86.00 %
+Markdown            12 hrs 11 mins  >------------------------   02.80 %
+Rust                8 hrs 24 mins   -------------------------   01.93 %
+CMake               8 hrs           -------------------------   01.84 %
+PowerShell          6 hrs 17 mins   -------------------------   01.45 %
+XML                 6 hrs 6 mins    -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->
