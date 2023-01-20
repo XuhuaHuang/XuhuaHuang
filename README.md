@@ -1,5 +1,4 @@
 ### Hi there 👋, this is Xuhua
-I consider myself to be a highly-motivated self-learner; various repositories contain all ~~self-taught~~ code written along the way.  
 
 <!-- Logo -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://gist.github.com/XuhuaHuang/starred)
@@ -65,7 +64,7 @@ XML                6 hrs 6 mins    -------------------------   01.41 %
 <details>
   <summary><b>More about me</b></summary>
 
-  - 🔭 I’m currently working on leanring OpenCV4 with Python3 and Qt5. 
+  - 🔭 I’m currently working on learning OpenCV4 with Python3 and Qt5. 
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`.
   - 🤔 I’m looking for help with advanced Python and Machine Learning.
