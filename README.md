@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 26 January 2023
+From: 28 December 2022 - To: 27 January 2023
 
-Total Time: 432 hrs 38 mins
+Total Time: 426 hrs 52 mins
 
-C++                 372 hrs 56 mins >>>>>>>>>>>>>>>>>>>>>>---   86.20 %
-Markdown            15 hrs 53 mins  >------------------------   03.67 %
-Other               13 hrs 58 mins  >------------------------   03.23 %
+C++                 360 hrs 11 mins >>>>>>>>>>>>>>>>>>>>>----   84.38 %
+Markdown            20 hrs 31 mins  >------------------------   04.81 %
+Other               13 hrs 58 mins  >------------------------   03.28 %
 ```
 
 <!--END_SECTION:waka-->
