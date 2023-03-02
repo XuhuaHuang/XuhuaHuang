@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 27 February 2023
+From: 29 January 2023 - To: 28 February 2023
 
-Total Time: 395 hrs 18 mins
+Total Time: 410 hrs 10 mins
 
-C++                300 hrs 8 mins  >>>>>>>>>>>>>>>>>>>------   75.93 %
-Other              24 hrs 57 mins  >>-----------------------   06.32 %
+C++                309 hrs 29 mins >>>>>>>>>>>>>>>>>>>------   75.45 %
+Other              26 hrs 39 mins  >>-----------------------   06.50 %
 ```
 
 <!--END_SECTION:waka-->
