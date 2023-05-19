@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 16 May 2023
+From: 17 April 2023 - To: 17 May 2023
 
-Total Time: 436 hrs 45 mins
+Total Time: 438 hrs 13 mins
 
-C++           355 hrs 44 mins >>>>>>>>>>>>>>>>>>>>-----   81.45 %
-Rust          37 hrs 33 mins  >>-----------------------   08.60 %
-Other         18 hrs 23 mins  >------------------------   04.21 %
-CMake         12 hrs 6 mins   >------------------------   02.77 %
-Markdown      8 hrs 21 mins   -------------------------   01.91 %
+C++           349 hrs 41 mins >>>>>>>>>>>>>>>>>>>>-----   79.80 %
+Rust          37 hrs 28 mins  >>-----------------------   08.55 %
+Other         22 hrs 21 mins  >------------------------   05.10 %
+CMake         12 hrs 6 mins   >------------------------   02.76 %
+Markdown      11 hrs 37 mins  >------------------------   02.65 %
 ```
 
 <!--END_SECTION:waka-->
