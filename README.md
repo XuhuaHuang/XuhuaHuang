@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2023 - To: 23 June 2023
+From: 25 May 2023 - To: 24 June 2023
 
-Total Time: 434 hrs 40 mins
+Total Time: 431 hrs 1 min
 
-C++          407 hrs 53 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.84 %
-Other        13 hrs 7 mins   >------------------------   03.02 %
-Markdown     7 hrs 3 mins    -------------------------   01.62 %
-CMake        3 hrs 29 mins   -------------------------   00.80 %
+C++          406 hrs 36 mins >>>>>>>>>>>>>>>>>>>>>>>>-   94.34 %
+Other        11 hrs 23 mins  >------------------------   02.64 %
+Markdown     6 hrs 26 mins   -------------------------   01.49 %
+CMake        3 hrs 29 mins   -------------------------   00.81 %
 Bash         2 hrs 9 mins    -------------------------   00.50 %
 ```
 
