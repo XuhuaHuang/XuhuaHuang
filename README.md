@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2023 - To: 07 August 2023
+From: 09 July 2023 - To: 08 August 2023
 
-Total Time: 427 hrs 42 mins
+Total Time: 436 hrs 4 mins
 
-C++          400 hrs 10 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.56 %
-D            9 hrs 37 mins   >------------------------   02.25 %
-Other        5 hrs 26 mins   -------------------------   01.27 %
-YAML         3 hrs 14 mins   -------------------------   00.76 %
-Zig          3 hrs 5 mins    -------------------------   00.72 %
+C++          408 hrs 37 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.71 %
+D            9 hrs 37 mins   >------------------------   02.21 %
+Other        5 hrs 26 mins   -------------------------   01.25 %
+YAML         3 hrs 14 mins   -------------------------   00.74 %
+Zig          3 hrs 5 mins    -------------------------   00.71 %
 ```
 
 <!--END_SECTION:waka-->
