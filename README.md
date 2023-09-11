@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 08 September 2023
+From: 10 August 2023 - To: 09 September 2023
 
-Total Time: 398 hrs 12 mins
+Total Time: 399 hrs 25 mins
 
-C++              363 hrs 26 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.27 %
+C++              363 hrs 56 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.12 %
 CMake            7 hrs 30 mins   -------------------------   01.88 %
-D                7 hrs 18 mins   -------------------------   01.84 %
-Markdown         5 hrs 35 mins   -------------------------   01.40 %
-TSQL             3 hrs 43 mins   -------------------------   00.94 %
+D                7 hrs 18 mins   -------------------------   01.83 %
+Markdown         5 hrs 30 mins   -------------------------   01.38 %
+Other            4 hrs 30 mins   -------------------------   01.13 %
 ```
 
 <!--END_SECTION:waka-->
