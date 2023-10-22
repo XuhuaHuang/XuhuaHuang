@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2023 - To: 19 October 2023
+From: 20 September 2023 - To: 20 October 2023
 
-Total Time: 392 hrs 5 mins
+Total Time: 392 hrs 23 mins
 
-C++          351 hrs 23 mins >>>>>>>>>>>>>>>>>>>>>>---   89.62 %
+C++          348 hrs 52 mins >>>>>>>>>>>>>>>>>>>>>>---   88.91 %
+Other        16 hrs 23 mins  >------------------------   04.18 %
 Markdown     14 hrs 40 mins  >------------------------   03.74 %
-Other        13 hrs 33 mins  >------------------------   03.46 %
-Rust         6 hrs 38 mins   -------------------------   01.70 %
+Rust         6 hrs 38 mins   -------------------------   01.69 %
 Python       1 hr 53 mins    -------------------------   00.48 %
 ```
 
