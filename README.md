@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 11 November 2023
+From: 13 October 2023 - To: 12 November 2023
 
-Total Time: 398 hrs 12 mins
+Total Time: 393 hrs 9 mins
 
-C++              375 hrs 45 mins >>>>>>>>>>>>>>>>>>>>>>>>-   94.36 %
-Other            11 hrs 36 mins  >------------------------   02.91 %
-Python           7 hrs 19 mins   -------------------------   01.84 %
-INI              1 hr 23 mins    -------------------------   00.35 %
-Markdown         44 mins         -------------------------   00.18 %
+C++              367 hrs 59 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.60 %
+Other            11 hrs 23 mins  >------------------------   02.90 %
+Python           9 hrs 53 mins   >------------------------   02.51 %
+INI              1 hr 23 mins    -------------------------   00.36 %
+CMake            57 mins         -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
