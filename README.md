@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 29 November 2023
+From: 31 October 2023 - To: 30 November 2023
 
-Total Time: 364 hrs 27 mins
+Total Time: 363 hrs 48 mins
 
-C++          345 hrs 1 min   >>>>>>>>>>>>>>>>>>>>>>>>-   94.67 %
+C++          345 hrs         >>>>>>>>>>>>>>>>>>>>>>>>-   94.83 %
 Python       11 hrs 58 mins  >------------------------   03.29 %
-Other        5 hrs 18 mins   -------------------------   01.46 %
+Other        4 hrs 41 mins   -------------------------   01.29 %
 CMake        51 mins         -------------------------   00.24 %
 JSON         45 mins         -------------------------   00.21 %
 ```
