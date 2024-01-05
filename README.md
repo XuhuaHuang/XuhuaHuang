@@ -12,15 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 02 January 2024
+From: 04 December 2023 - To: 03 January 2024
 
-Total Time: 157 hrs 38 mins
+Total Time: 150 hrs 43 mins
 
-C++        152 hrs 17 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.61 %
-Markdown   3 hrs 6 mins    -------------------------   01.97 %
-CMake      1 hr 25 mins    -------------------------   00.90 %
-MATLAB     48 mins         -------------------------   00.51 %
-Other      1 min           -------------------------   00.01 %
+C++        146 hrs 25 mins >>>>>>>>>>>>>>>>>>>>>>>>-   97.14 %
+Markdown   3 hrs 6 mins    >------------------------   02.06 %
+MATLAB     48 mins         -------------------------   00.54 %
+CMake      24 mins         -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
