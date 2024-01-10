@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2023 - To: 07 January 2024
+From: 09 December 2023 - To: 08 January 2024
 
-Total Time: 109 hrs 15 mins
+Total Time: 108 hrs 17 mins
 
-C++        105 hrs 20 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.42 %
-Markdown   3 hrs 6 mins    >------------------------   02.84 %
-MATLAB     48 mins         -------------------------   00.74 %
+C++        104 hrs 22 mins >>>>>>>>>>>>>>>>>>>>>>>>-   96.39 %
+Markdown   3 hrs 6 mins    >------------------------   02.86 %
+MATLAB     48 mins         -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
