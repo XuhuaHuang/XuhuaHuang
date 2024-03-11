@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 08 March 2024
+From: 08 February 2024 - To: 09 March 2024
 
-Total Time: 121 hrs 37 mins
+Total Time: 125 hrs 31 mins
 
-C++        110 hrs 51 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.14 %
-Other      8 hrs 27 mins   >>-----------------------   06.95 %
-CSV        1 hr 51 mins    -------------------------   01.53 %
-Markdown   13 mins         -------------------------   00.18 %
+C++        114 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.41 %
+Other      8 hrs 27 mins   >>-----------------------   06.74 %
+CSV        1 hr 51 mins    -------------------------   01.49 %
+Markdown   13 mins         -------------------------   00.17 %
 CMake      8 mins          -------------------------   00.12 %
 ```
 
