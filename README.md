@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2024 - To: 20 March 2024
+From: 20 February 2024 - To: 21 March 2024
 
-Total Time: 110 hrs 11 mins
+Total Time: 106 hrs 8 mins
 
-C++           95 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.27 %
-Other         9 hrs 44 mins   >>-----------------------   08.84 %
-MATLAB        1 hr 56 mins    -------------------------   01.76 %
-CSV           1 hr 48 mins    -------------------------   01.64 %
-CMake         49 mins         -------------------------   00.75 %
+C++           91 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>----   85.75 %
+Other         9 hrs 44 mins   >>-----------------------   09.17 %
+MATLAB        1 hr 56 mins    -------------------------   01.82 %
+CSV           1 hr 48 mins    -------------------------   01.71 %
+CMake         49 mins         -------------------------   00.78 %
 ```
 
 <!--END_SECTION:waka-->
