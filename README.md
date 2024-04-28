@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2024 - To: 25 April 2024
+From: 27 March 2024 - To: 26 April 2024
 
-Total Time: 184 hrs 34 mins
+Total Time: 182 hrs 37 mins
 
-C++        118 hrs 40 mins >>>>>>>>>>>>>>>>---------   64.30 %
-C          48 hrs 2 mins   >>>>>>>------------------   26.03 %
-Other      7 hrs 55 mins   >------------------------   04.29 %
-Rust       4 hrs 21 mins   >------------------------   02.36 %
-Markdown   2 hrs 56 mins   -------------------------   01.59 %
+C++        117 hrs 29 mins >>>>>>>>>>>>>>>>---------   64.33 %
+C          48 hrs 2 mins   >>>>>>>------------------   26.31 %
+Other      7 hrs 31 mins   >------------------------   04.12 %
+Rust       5 hrs 13 mins   >------------------------   02.86 %
+Markdown   2 hrs 56 mins   -------------------------   01.61 %
 ```
 
 <!--END_SECTION:waka-->
