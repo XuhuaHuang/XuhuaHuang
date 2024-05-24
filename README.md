@@ -1,12 +1,6 @@
 ### Hi there 👋, this is Xuhua
 
-<!-- Logo -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://gist.github.com/XuhuaHuang/starred)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][LinkedIn Profile Link] 
-
-✔ Self learner and quick learner craving for in-depth knowledge and challenges. <br>
-✔ Strong passion in Embedded Software Development w/ **C/C++, Python & Rust**. <br>
-✔ **Embedded Software Development** || Design || **Data Analysis** w/ mathematics.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XuhuaHuang&label=Profile%20views&color=0e75b6&style=flat" alt="Xuhua Huang's profile views" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/f89598ea-6723-481b-a51b-6323e54a3c5c.svg)](https://wakatime.com/@f89598ea-6723-481b-a51b-6323e54a3c5c)
 <!--START_SECTION:waka-->
@@ -22,6 +16,16 @@ Other              26 hrs 11 mins  >>-----------------------   06.02 %
 
 <!--END_SECTION:waka-->
 
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arduino,visualstudio,vscode" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,c,cpp,cmake,qt,rust,zig" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
+    </a>
+</p>
+
 <!-- Fold Information Section -->
 <details>
   <summary><b>Skills and badges</b></summary>
@@ -29,8 +33,7 @@ Other              26 hrs 11 mins  >>-----------------------   06.02 %
   #### Skills
   * 💻 C / C++ / Python
   * 🖥️ Rust / Cython / Java
-  * ⌨️ Object-Oriented Programming
-  * 🗃️ SQL / MySQL
+  * 🗃️ Object-Oriented Programming
 
   #### LinkedIn Skill Assessment Badges
   * ✒️ [C++ Programming][LinkedIn Profile Link]
@@ -72,25 +75,24 @@ Other              26 hrs 11 mins  >>-----------------------   06.02 %
   <summary><b>GitHub profile status</b></summary>
   
   <!-- Overall -->
-  #### Overview  
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-  ![Profile views](https://gpvc.arturio.dev/XuhuaHuang)
 
+  #### Overview  
   <!-- Languages -->
   #### Top Languages
   <!-- Link Definitions -->
-  [Top Langs Link API]: https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&layout=compact&theme=solarized-dark&title_color=90d0e4&text_color=89d7a9
-  [![Top Langs][Top Langs Link API]](https://github.com/anuraghazra/github-readme-stats)
+  ![XuhuaHuang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
   <!-- Wakatime profile -->
   #### Summary of Coding Activities
   <!-- Link Definitions -->
-  [Wakatime Stats Link API]: https://github-readme-stats.vercel.app/api/wakatime?username=XuhuaHuang&layout=compact&theme=solarized-dark&title_color=90d0e4&text_color=89d7a9
-  [![Xuhua's wakatime stats][Wakatime Stats Link API]](https://github.com/anuraghazra/github-readme-stats)
+  ![XuhuaHuang's Stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+  ![XuhuaHuang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang&theme=vue-dark&hide_border=true)
+
 </details>
 
 <details>
-  <summary><b>I ❤️ Modern C++</b></summary>
+  <summary><b> ❤️ Modern C++</b></summary>
   
   ```C++
   /*****************************************************************//**
