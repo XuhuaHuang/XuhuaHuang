@@ -20,12 +20,14 @@ CMake            7 hrs 42 mins   >------------------------   03.55 %
 <!--END_SECTION:waka-->
 
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arduino,visualstudio,vscode" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=git,c,cpp,cmake,qt,rust,zig" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
+    <a href="https://github.com/XuhuaHuang/EmbeddedProgramming">
+        <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cmake,qt,zig" />
+    </a>
+    <a href="https://github.com/XuhuaHuang/LearnPython">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,matlab" />
+    </a>
+    <a href="https://github.com/XuhuaHuang/LearnRust">
+        <img src="https://skillicons.dev/icons?i=rust" />
     </a>
 </p>
 
