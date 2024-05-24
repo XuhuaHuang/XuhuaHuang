@@ -5,13 +5,16 @@
 [![wakatime](https://wakatime.com/badge/user/f89598ea-6723-481b-a51b-6323e54a3c5c.svg)](https://wakatime.com/@f89598ea-6723-481b-a51b-6323e54a3c5c)
 <!--START_SECTION:waka-->
 
-```text
-From: 02 February 2023 - To: 04 March 2023
+```txt
+From: 22 April 2024 - To: 22 May 2024
 
-Total Time: 434 hrs 50 mins
+Total Time: 216 hrs 48 mins
 
-C++                329 hrs 59 mins >>>>>>>>>>>>>>>>>>>------   75.89 %
-Other              26 hrs 11 mins  >>-----------------------   06.02 %
+C++              70 hrs 25 mins  >>>>>>>>-----------------   32.48 %
+C                56 hrs 1 min    >>>>>>-------------------   25.84 %
+Python           45 hrs 8 mins   >>>>>--------------------   20.82 %
+Cython           10 hrs 34 mins  >------------------------   04.88 %
+CMake            7 hrs 42 mins   >------------------------   03.55 %
 ```
 
 <!--END_SECTION:waka-->
