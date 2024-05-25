@@ -1,7 +1,5 @@
 ### Hi there 👋, this is Xuhua
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XuhuaHuang&label=Profile%20views&color=0e75b6&style=flat" alt="Xuhua Huang's profile views" /> </p>
-
 [![wakatime](https://wakatime.com/badge/user/f89598ea-6723-481b-a51b-6323e54a3c5c.svg)](https://wakatime.com/@f89598ea-6723-481b-a51b-6323e54a3c5c)
 <!--START_SECTION:waka-->
 
