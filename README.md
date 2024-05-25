@@ -22,7 +22,7 @@ CMake              7 hrs 42 mins   >------------------------   03.36 %
 <p align="left">
     <a href="https://github.com/XuhuaHuang/EmbeddedProgramming"> <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cmake,qt" /> </a>
     <br>
-    <a ref="https://github.com/XuhuaHuang/LearnPython"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,matlab" /> </a>
+    <a href="https://github.com/XuhuaHuang/LearnPython"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,matlab" /> </a>
 </p>
 
 <!-- Fold Information Section -->
