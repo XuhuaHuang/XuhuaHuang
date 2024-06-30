@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 27 June 2024
+From: 29 May 2024 - To: 28 June 2024
 
-Total Time: 299 hrs 42 mins
+Total Time: 292 hrs 21 mins
 
-C++           176 hrs 11 mins >>>>>>>>>>>>>>>----------   58.79 %
-Python        97 hrs 44 mins  >>>>>>>>-----------------   32.61 %
-Other         13 hrs 18 mins  >------------------------   04.44 %
-CMake         5 hrs 46 mins   -------------------------   01.93 %
-Markdown      3 hrs 28 mins   -------------------------   01.16 %
+C++           173 hrs 48 mins >>>>>>>>>>>>>>>----------   59.45 %
+Python        93 hrs 21 mins  >>>>>>>>-----------------   31.93 %
+Other         13 hrs 7 mins   >------------------------   04.49 %
+CMake         5 hrs 40 mins   -------------------------   01.94 %
+Markdown      3 hrs 28 mins   -------------------------   01.19 %
 ```
 
 <!--END_SECTION:waka-->
