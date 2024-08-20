@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2024 - To: 17 August 2024
+From: 19 July 2024 - To: 18 August 2024
 
-Total Time: 93 hrs 12 mins
+Total Time: 89 hrs 27 mins
 
-Python       65 hrs 35 mins  >>>>>>>>>>>>>>>>>>-------   70.37 %
-CMake        12 hrs 50 mins  >>>----------------------   13.78 %
-C++          11 hrs 8 mins   >>>----------------------   11.95 %
-CSV          2 hrs 19 mins   >------------------------   02.49 %
-Other        1 hr 3 mins     -------------------------   01.14 %
+Python     63 hrs 30 mins  >>>>>>>>>>>>>>>>>>-------   70.98 %
+CMake      12 hrs 50 mins  >>>>---------------------   14.35 %
+C++        9 hrs 33 mins   >>>----------------------   10.68 %
+CSV        2 hrs 18 mins   >------------------------   02.58 %
+Other      1 hr            -------------------------   01.13 %
 ```
 
 <!--END_SECTION:waka-->
