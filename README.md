@@ -37,7 +37,7 @@ Other        4 hrs 46 mins   >>-----------------------   06.97 %
   * ✒️ [Python Programming][LinkedIn Profile Link]
   * ✒️ [Object-Oriented Programming][LinkedIn Profile Link]
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
-
+</details>
 
 <!-- Link Definitions -->
 [LinkedIn Profile Link]: https://www.linkedin.com/in/xuhua-huang-io/
