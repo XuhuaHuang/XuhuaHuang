@@ -18,9 +18,9 @@ Other        4 hrs 46 mins   >>-----------------------   06.97 %
 <!--END_SECTION:waka-->
 
 <p align="left">
-    <a href="https://github.com/XuhuaHuang/EmbeddedProgramming"> <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cmake,qt" /> </a>
+    <a href="https://github.com/XuhuaHuang/EmbeddedProgramming"> <img src="https://skillicons.dev/icons?i=arduino,c,cpp,rust,cmake,qt" /> </a>
     <br>
-    <a href="https://github.com/XuhuaHuang/LearnPython"> <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,matlab" /> </a>
+    <a href="https://github.com/XuhuaHuang/LearnPython"> <img src="https://skillicons.dev/icons?i=py,java,pytorch,tensorflow,opencv,matlab" /> </a>
 </p>
 
 <!-- Fold Information Section -->
@@ -38,16 +38,6 @@ Other        4 hrs 46 mins   >>-----------------------   06.97 %
   * ✒️ [Object-Oriented Programming][LinkedIn Profile Link]
   * ✒️ [Object-Oriented Data Structures in C++][OO Data Structures C++]
 
-  #### Recently Obtained Badges
-  [<img src="https://images.credly.com/size/340x340/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
-        alt="Applied Data Science with Python - Level 2" width="130" height="130">][Applied Data Science with Python - Level 2]
-  [<img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"
-        alt="Data Visualization using Python" width="130" height="130">][Data Visualization using Python]
-  [<img src="https://images.credly.com/size/220x220/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"
-        alt="Data Analysis Using Python" width="130" height="130">][Data Analysis using Python]
-  [<img src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"
-        alt="Python for Data Science" width="130" height="130">][Python for Data Science]
-</details>
 
 <!-- Link Definitions -->
 [LinkedIn Profile Link]: https://www.linkedin.com/in/xuhua-huang-io/
