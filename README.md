@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 September 2024 - To: 19 October 2024
+From: 20 September 2024 - To: 20 October 2024
 
-Total Time: 123 hrs 12 mins
+Total Time: 119 hrs 49 mins
 
-C++           52 hrs 35 mins  >>>>>>>>>>>--------------   42.69 %
-Java          36 hrs 56 mins  >>>>>>>------------------   29.98 %
-Other         15 hrs 29 mins  >>>----------------------   12.57 %
-CMake         5 hrs 48 mins   >------------------------   04.71 %
-CSV           4 hrs 46 mins   >------------------------   03.87 %
+C++           52 hrs 35 mins  >>>>>>>>>>>--------------   43.89 %
+Java          36 hrs 56 mins  >>>>>>>>-----------------   30.83 %
+Other         12 hrs 6 mins   >>>----------------------   10.11 %
+CMake         5 hrs 48 mins   >------------------------   04.84 %
+CSV           4 hrs 46 mins   >------------------------   03.98 %
 ```
 
 <!--END_SECTION:waka-->
