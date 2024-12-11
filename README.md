@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2024 - To: 08 December 2024
+From: 09 November 2024 - To: 09 December 2024
 
-Total Time: 100 hrs 42 mins
+Total Time: 95 hrs 18 mins
 
-Java         38 hrs 8 mins   >>>>>>>>>----------------   37.88 %
-Python       26 hrs 8 mins   >>>>>>-------------------   25.95 %
-C++          19 hrs 50 mins  >>>>>--------------------   19.70 %
-Other        4 hrs 13 mins   >------------------------   04.20 %
-D            4 hrs 4 mins    >------------------------   04.04 %
+Java         32 hrs 44 mins  >>>>>>>>>----------------   34.35 %
+Python       26 hrs 8 mins   >>>>>>>------------------   27.43 %
+C++          19 hrs 50 mins  >>>>>--------------------   20.82 %
+Other        4 hrs 13 mins   >------------------------   04.43 %
+D            4 hrs 4 mins    >------------------------   04.27 %
 ```
 
 <!--END_SECTION:waka-->
