@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 02 January 2025
+From: 04 December 2024 - To: 03 January 2025
 
-Total Time: 28 hrs 49 mins
+Total Time: 15 hrs 7 mins
 
-C++        14 hrs 1 min    >>>>>>>>>>>>-------------   48.64 %
-Java       5 hrs 12 mins   >>>>>--------------------   18.08 %
-Other      3 hrs 51 mins   >>>----------------------   13.37 %
-CSV        2 hrs 50 mins   >>-----------------------   09.88 %
-Python     1 hr 28 mins    >------------------------   05.11 %
+C++        5 hrs 10 mins   >>>>>>>>>----------------   34.20 %
+Java       4 hrs 8 mins    >>>>>>>------------------   27.37 %
+CSV        2 hrs 50 mins   >>>>>--------------------   18.82 %
+Python     1 hr 28 mins    >>-----------------------   09.74 %
+Markdown   1 hr 22 mins    >>-----------------------   09.13 %
 ```
 
 <!--END_SECTION:waka-->
