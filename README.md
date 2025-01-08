@@ -4,12 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 05 January 2025
+From: 07 December 2024 - To: 06 January 2025
 
-Total Time: 4 hrs
+Total Time: 4 hrs 7 mins
 
-Java       2 hrs 37 mins   >>>>>>>>>>>>>>>>---------   65.51 %
-Markdown   1 hr 22 mins    >>>>>>>>>----------------   34.49 %
+Java       2 hrs 37 mins   >>>>>>>>>>>>>>>>---------   63.55 %
+Markdown   1 hr 22 mins    >>>>>>>>-----------------   33.47 %
+Other      7 mins          >------------------------   02.98 %
 ```
 
 <!--END_SECTION:waka-->
