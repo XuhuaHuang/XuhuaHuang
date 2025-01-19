@@ -4,11 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2024 - To: 16 January 2025
+From: 18 December 2024 - To: 17 January 2025
 
-Total Time: 7 mins
+Total Time: 3 hrs 26 mins
 
-Other   7 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+CSV     3 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.42 %
+Other   7 mins          >------------------------   03.58 %
 ```
 
 <!--END_SECTION:waka-->
