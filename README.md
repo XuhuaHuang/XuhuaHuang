@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 19 April 2025
+From: 21 March 2025 - To: 20 April 2025
 
-Total Time: 232 hrs 38 mins
+Total Time: 226 hrs 17 mins
 
-C++                                99 hrs 26 mins  >>>>>>>>>>>--------------   42.75 %
-Python                             41 hrs 15 mins  >>>>---------------------   17.73 %
-CMake                              33 hrs 47 mins  >>>>---------------------   14.52 %
-Other                              21 hrs 51 mins  >>-----------------------   09.40 %
-JSON                               11 hrs 37 mins  >------------------------   04.99 %
+C++                                102 hrs 22 mins >>>>>>>>>>>--------------   45.24 %
+Python                             35 hrs 47 mins  >>>>---------------------   15.81 %
+CMake                              33 hrs 46 mins  >>>>---------------------   14.93 %
+Other                              21 hrs 51 mins  >>-----------------------   09.66 %
+JSON                               11 hrs 16 mins  >------------------------   04.98 %
 ```
 
 <!--END_SECTION:waka-->
