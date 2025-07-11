@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2025 - To: 08 July 2025
+From: 09 June 2025 - To: 09 July 2025
 
-Total Time: 57 hrs 46 mins
+Total Time: 53 hrs
 
-C                20 hrs 12 mins  >>>>>>>>>----------------   34.98 %
-C++              13 hrs 58 mins  >>>>>>-------------------   24.18 %
-Java             8 hrs 18 mins   >>>>---------------------   14.38 %
-CMake            7 hrs 57 mins   >>>----------------------   13.78 %
-Other            4 hrs 32 mins   >>-----------------------   07.86 %
+C                15 hrs 37 mins  >>>>>>>------------------   29.47 %
+C++              13 hrs 56 mins  >>>>>>>------------------   26.28 %
+Java             8 hrs 18 mins   >>>>---------------------   15.67 %
+CMake            7 hrs 49 mins   >>>>---------------------   14.75 %
+Other            4 hrs 32 mins   >>-----------------------   08.57 %
 ```
 
 <!--END_SECTION:waka-->
