@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 05 August 2025
+From: 07 July 2025 - To: 06 August 2025
 
-Total Time: 50 hrs 45 mins
+Total Time: 57 hrs 20 mins
 
-Java       40 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>-----   80.38 %
-CMake      6 hrs 41 mins   >>>----------------------   13.18 %
-Text       1 hr 39 mins    >------------------------   03.28 %
-Other      39 mins         -------------------------   01.30 %
-JSON       24 mins         -------------------------   00.79 %
+Java         40 hrs 47 mins  >>>>>>>>>>>>>>>>>>-------   71.15 %
+CMake        6 hrs 41 mins   >>>----------------------   11.67 %
+SSH Config   2 hrs 49 mins   >------------------------   04.91 %
+Markdown     2 hrs 14 mins   >------------------------   03.90 %
+Python       1 hr 58 mins    >------------------------   03.45 %
 ```
 
 <!--END_SECTION:waka-->
