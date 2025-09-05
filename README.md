@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 02 September 2025
+From: 04 August 2025 - To: 03 September 2025
 
-Total Time: 39 hrs 35 mins
+Total Time: 46 hrs 37 mins
 
-Python       15 hrs 9 mins   >>>>>>>>>>---------------   38.31 %
-C++          13 hrs 41 mins  >>>>>>>>>----------------   34.59 %
-SSH Config   2 hrs 49 mins   >>-----------------------   07.13 %
-Git Config   2 hrs 22 mins   >>-----------------------   06.00 %
-JSON         2 hrs 16 mins   >------------------------   05.77 %
+Python       21 hrs 20 mins  >>>>>>>>>>>--------------   45.76 %
+C++          13 hrs 41 mins  >>>>>>>------------------   29.36 %
+SSH Config   2 hrs 49 mins   >>-----------------------   06.05 %
+Git Config   2 hrs 26 mins   >------------------------   05.23 %
+JSON         2 hrs 18 mins   >------------------------   04.94 %
 ```
 
 <!--END_SECTION:waka-->
