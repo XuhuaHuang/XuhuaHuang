@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 10 October 2025
+From: 11 September 2025 - To: 11 October 2025
 
-Total Time: 41 hrs 1 min
+Total Time: 32 hrs 47 mins
 
-Python       22 hrs 7 mins   >>>>>>>>>>>>>------------   53.95 %
-C++          7 hrs 43 mins   >>>>>--------------------   18.85 %
-CSV          5 hrs           >>>----------------------   12.19 %
-CMake        4 hrs 25 mins   >>>----------------------   10.80 %
-Text         29 mins         -------------------------   01.18 %
+Python       16 hrs 33 mins  >>>>>>>>>>>>>------------   50.48 %
+C++          7 hrs 43 mins   >>>>>>-------------------   23.58 %
+CMake        4 hrs 25 mins   >>>----------------------   13.51 %
+CSV          2 hrs 29 mins   >>-----------------------   07.60 %
+Text         29 mins         -------------------------   01.48 %
 ```
 
 <!--END_SECTION:waka-->
