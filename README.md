@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 04 November 2025
+From: 06 October 2025 - To: 05 November 2025
 
-Total Time: 6 hrs
+Total Time: 19 hrs 59 mins
 
-CSV      3 hrs 58 mins   >>>>>>>>>>>>>>>>>--------   66.12 %
-Python   1 hr 32 mins    >>>>>>-------------------   25.61 %
-JSON     22 mins         >>-----------------------   06.23 %
-Docker   4 mins          -------------------------   01.33 %
-Text     2 mins          -------------------------   00.63 %
+CSV          13 hrs 14 mins  >>>>>>>>>>>>>>>>>--------   66.18 %
+Python       6 hrs           >>>>>>>>-----------------   30.07 %
+JSON         22 mins         -------------------------   01.88 %
+Markdown     13 mins         -------------------------   01.14 %
+Docker       4 mins          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
