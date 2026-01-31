@@ -4,14 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 28 January 2026
+From: 30 December 2025 - To: 29 January 2026
 
-Total Time: 7 hrs 13 mins
+Total Time: 10 hrs 45 mins
 
-Docker       6 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>----   85.86 %
-C++          38 mins         >>-----------------------   08.90 %
-JSON         16 mins         >------------------------   03.84 %
-Git Config   6 mins          -------------------------   01.40 %
+Docker       6 hrs 11 mins   >>>>>>>>>>>>>>-----------   57.64 %
+C            2 hrs 42 mins   >>>>>>-------------------   25.15 %
+C++          1 hr 28 mins    >>>----------------------   13.65 %
+JSON         16 mins         >------------------------   02.59 %
+Git Config   6 mins          -------------------------   00.94 %
 ```
 
 <!--END_SECTION:waka-->
