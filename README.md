@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 27 February 2026
+From: 29 January 2026 - To: 28 February 2026
 
-Total Time: 34 hrs 1 min
+Total Time: 30 hrs 29 mins
 
-C++        18 hrs 22 mins        >>>>>>>>>>>>>>-----------   54.01 %
-Python     3 hrs 51 mins         >>>----------------------   11.35 %
-Rust       3 hrs 51 mins         >>>----------------------   11.34 %
-C          2 hrs 43 mins         >>-----------------------   08.02 %
-CMake      2 hrs 36 mins         >>-----------------------   07.66 %
+C++        17 hrs 32 mins        >>>>>>>>>>>>>>-----------   57.57 %
+Python     3 hrs 51 mins         >>>----------------------   12.67 %
+Rust       3 hrs 51 mins         >>>----------------------   12.66 %
+CMake      2 hrs 36 mins         >>-----------------------   08.53 %
+Markdown   1 hr 28 mins          >------------------------   04.84 %
 ```
 
 <!--END_SECTION:waka-->
