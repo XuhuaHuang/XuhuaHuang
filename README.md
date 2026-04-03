@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 31 March 2026
+From: 02 March 2026 - To: 01 April 2026
 
-Total Time: 1 hr 35 mins
+Total Time: 3 hrs 10 mins
 
-C++          45 mins               >>>>>>>>>>>>-------------   47.80 %
-CMake        22 mins               >>>>>>-------------------   23.92 %
-Markdown     20 mins               >>>>>--------------------   21.49 %
-Git Config   2 mins                >------------------------   03.13 %
-JSON         2 mins                >------------------------   02.25 %
+Text         1 hr 16 mins          >>>>>>>>>>---------------   40.08 %
+C++          45 mins               >>>>>>-------------------   23.85 %
+CMake        41 mins               >>>>>--------------------   21.94 %
+Markdown     20 mins               >>>----------------------   10.73 %
+Git Config   2 mins                -------------------------   01.56 %
 ```
 
 <!--END_SECTION:waka-->
