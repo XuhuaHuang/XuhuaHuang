@@ -26,8 +26,8 @@ Git Config   2 mins                -------------------------   01.56 %
 <!-- Fold Information Section -->
 <details>
   <summary><b>Skills and badges</b></summary>
-  
-  #### Skills
+
+  <!-- #### Skills -->
   * 💻 C / C++ / Python
   * 🖥️ Rust / Cython / Java
   * 🗃️ Object-Oriented Programming
@@ -54,7 +54,6 @@ Git Config   2 mins                -------------------------   01.56 %
   - 🌱 I’m currently learning Rust.
   - 📤 Most used line of code `git commit -m "Initial Commit"`.
   - 🤔 I’m looking for help with advanced Python and Machine Learning.
-  - 📫 How to reach me: xuhua.huang.io@gmail.com
   - ⚡ Fun fact: code blooded animal `std::code_blooded`.
 </details>
 
@@ -65,14 +64,14 @@ Git Config   2 mins                -------------------------   01.56 %
 
   #### Overview  
   <!-- Languages -->
-  #### Top Languages
+  <!-- #### Top Languages
   <!-- Link Definitions -->
-  ![XuhuaHuang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  <!-- ![XuhuaHuang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
   
   <!-- Wakatime profile -->
-  #### Summary of Coding Activities
+  <!-- #### Summary of Coding Activities -->
   <!-- Link Definitions -->
-  ![XuhuaHuang's Stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  <!-- ![XuhuaHuang's Stats](https://github-readme-stats.vercel.app/api?username=XuhuaHuang&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
   ![XuhuaHuang's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XuhuaHuang&theme=vue-dark&hide_border=true)
 
