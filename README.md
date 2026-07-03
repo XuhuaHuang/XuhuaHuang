@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 30 June 2026
+From: 01 June 2026 - To: 01 July 2026
 
-Total Time: 151 hrs 23 mins
+Total Time: 146 hrs 19 mins
 
-Python               24 hrs 29 mins        >>>>---------------------   16.18 %
-C++                  24 hrs 15 mins        >>>>---------------------   16.02 %
-RobotFramework       21 hrs 13 mins        >>>>---------------------   14.02 %
-CMake                17 hrs 37 mins        >>>----------------------   11.64 %
-JavaScript           13 hrs 40 mins        >>-----------------------   09.03 %
+Python               24 hrs 29 mins        >>>>---------------------   16.74 %
+C++                  23 hrs 19 mins        >>>>---------------------   15.94 %
+RobotFramework       19 hrs 3 mins         >>>----------------------   13.02 %
+CMake                16 hrs 11 mins        >>>----------------------   11.07 %
+JavaScript           13 hrs 40 mins        >>-----------------------   09.35 %
 ```
 
 <!--END_SECTION:waka-->
