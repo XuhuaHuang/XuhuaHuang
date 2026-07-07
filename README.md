@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 04 July 2026
+From: 05 June 2026 - To: 05 July 2026
 
-Total Time: 109 hrs 38 mins
+Total Time: 98 hrs 2 mins
 
-Python               22 hrs 40 mins        >>>>>--------------------   20.68 %
-C++                  14 hrs 32 mins        >>>----------------------   13.27 %
-JavaScript           14 hrs 22 mins        >>>----------------------   13.11 %
-RobotFramework       12 hrs 41 mins        >>>----------------------   11.57 %
-Docker               7 hrs 20 mins         >>-----------------------   06.69 %
+Python               22 hrs 28 mins        >>>>>>-------------------   22.93 %
+JavaScript           14 hrs 22 mins        >>>>---------------------   14.66 %
+RobotFramework       12 hrs 41 mins        >>>----------------------   12.94 %
+C++                  12 hrs 20 mins        >>>----------------------   12.59 %
+CSS                  6 hrs 11 mins         >>-----------------------   06.32 %
 ```
 
 <!--END_SECTION:waka-->
