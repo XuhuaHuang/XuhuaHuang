@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 01 August 2026
+From: 03 July 2026 - To: 02 August 2026
 
-Total Time: 111 hrs 4 mins
+Total Time: 110 hrs 22 mins
 
-Python            45 hrs 45 mins        >>>>>>>>>>---------------   41.19 %
-Markdown          13 hrs 14 mins        >>>----------------------   11.92 %
-XML               11 hrs 50 mins        >>>----------------------   10.66 %
-JavaScript        7 hrs 48 mins         >>-----------------------   07.04 %
-Other             7 hrs 15 mins         >>-----------------------   06.53 %
+Python            45 hrs 45 mins        >>>>>>>>>>---------------   41.46 %
+Markdown          13 hrs 14 mins        >>>----------------------   12.00 %
+XML               11 hrs 50 mins        >>>----------------------   10.73 %
+Other             7 hrs 15 mins         >>-----------------------   06.58 %
+JavaScript        7 hrs 7 mins          >>-----------------------   06.45 %
 ```
 
 <!--END_SECTION:waka-->
