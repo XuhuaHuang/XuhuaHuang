@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2026 - To: 29 August 2026
+From: 31 July 2026 - To: 30 August 2026
 
-Total Time: 18 hrs 56 mins
+Total Time: 7 hrs 18 mins
 
-Python            7 hrs 34 mins         >>>>>>>>>>---------------   39.95 %
-Markdown          4 hrs 58 mins         >>>>>>>------------------   26.24 %
-Other             2 hrs 3 mins          >>>----------------------   10.85 %
-Java              2 hrs 2 mins          >>>----------------------   10.82 %
-JavaScript        1 hr 1 min            >------------------------   05.44 %
+Java         2 hrs 2 mins          >>>>>>>------------------   28.04 %
+Other        1 hr 58 mins          >>>>>>>------------------   27.12 %
+Markdown     1 hr 2 mins           >>>>---------------------   14.20 %
+JavaScript   1 hr 1 min            >>>>---------------------   14.09 %
+C++          26 mins               >------------------------   05.94 %
 ```
 
 <!--END_SECTION:waka-->
