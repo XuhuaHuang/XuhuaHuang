@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2026 - To: 27 October 2026
+From: 28 September 2026 - To: 28 October 2026
 
-Total Time: 22 hrs 7 mins
+Total Time: 27 hrs 1 min
 
-C++         11 hrs 16 mins        >>>>>>>>>>>>>------------   50.95 %
-Other       4 hrs 16 mins         >>>>>--------------------   19.31 %
-CMake       2 hrs 34 mins         >>>----------------------   11.67 %
-Markdown    1 hr 42 mins          >>-----------------------   07.69 %
-Docker      1 hr 7 mins           >------------------------   05.05 %
+C++         15 hrs 12 mins        >>>>>>>>>>>>>>-----------   56.25 %
+Other       4 hrs 16 mins         >>>>---------------------   15.81 %
+CMake       2 hrs 35 mins         >>-----------------------   09.59 %
+Markdown    1 hr 42 mins          >>-----------------------   06.29 %
+Docker      1 hr 33 mins          >------------------------   05.78 %
 ```
 
 <!--END_SECTION:waka-->
